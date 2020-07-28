@@ -4,5 +4,6 @@ public class Fruit {
 
     public static void main(String[] args) {
         System.out.println("chenmanyi ai chenzhibin");
+        System.out.println("chenzhibin zhen shi niu bi a");
     }
 }
